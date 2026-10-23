@@ -19,4 +19,4 @@ python LinkedList_main.py
 ```
 
 ## Built by
-Kashish Dugar, age 9
+Kashish Dugar
